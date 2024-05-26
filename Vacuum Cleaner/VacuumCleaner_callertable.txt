@@ -1,0 +1,23 @@
+main
+	CCPPWM_init
+	ATD_init
+	motor2
+	ATD_read
+	Mul_16X16_U
+	Div_16X16_U
+	motor
+	Distance
+		usDelay
+		int2double
+			NRM3232
+				RES032
+				SETFUN32
+				FIXSIGN32
+		Div_32x32_FP
+			SETFDZ32
+			RES032
+			SETFOV32
+			SETFUN32
+		double2int
+			SETIOV3224
+	msDelay
