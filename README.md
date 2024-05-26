@@ -12,3 +12,10 @@ circuit for improved motor management and a user-friendly interface for ease of 
 attributes make our vacuum cleaner not just efficient in its primary task of cleaning but also versatile enough to
 adapt to various cleaning scenarios. It represents a new, smarter approach to maintaining cleanliness in
 homes.
+
+
+![Schematic Design](https://github.com/Mohammad-AlJourishi/Vacuum-Cleaner/assets/125097449/679fccc6-7087-4acf-a298-5d87ebb8dbe3)
+
+
+
+
